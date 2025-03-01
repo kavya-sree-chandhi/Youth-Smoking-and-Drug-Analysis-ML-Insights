@@ -12,8 +12,6 @@ This project analyzes youth smoking and drug experimentation trends using machin
 - [Analysis](#analysis)
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
