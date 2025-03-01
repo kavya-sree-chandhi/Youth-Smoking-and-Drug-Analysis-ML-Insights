@@ -24,6 +24,8 @@ To run this project in Google Colab, you do not need to install anything manuall
 1. Open the notebook in Google Colab:
    - Click on the link to the notebook: [Youth Smoking and Drug Analysis](https://colab.research.google.com/drive/1ldzXAqUi5D9zAbZjJVHobEQIHJOvzK4X)
 
+2. Download the csv file provided.
+
 2. If you need to load the dataset, upload it to Colab or specify the path to the dataset in your Google Drive.
 
 3. Run the cells in the notebook sequentially to perform the analysis.
