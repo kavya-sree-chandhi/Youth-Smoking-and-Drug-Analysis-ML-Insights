@@ -65,7 +65,7 @@ Various machine learning models are implemented to predict smoking prevalence an
 - Random Forest Regressor
 - Linear Regression
 
-## Results
+## Results :
 
 The results of the analysis and predictions are visualized using plots and interpreted to provide insights into youth smoking and drug use patterns.
 
